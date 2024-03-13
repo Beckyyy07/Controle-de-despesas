@@ -12,7 +12,7 @@ Projeto para controle de despesas desenvolvido com HTML, CSS e JavaScript. Ele Ã
 - **JavaScript:**
 
 ## âœ… Resultado (Preview)
-<img src="\img\financas.gif">
+<img src="controle-de-despesas-main/img/financas.gif.mp4">
 
 <br>
 
