@@ -11,9 +11,6 @@ Projeto para controle de despesas desenvolvido com HTML, CSS e JavaScript. Ele �
 - **CSS:** 
 - **JavaScript:**
 
-## ✅ Resultado (Preview)
-<img src="controle-de-despesas-main/img/financas.gif.mp4">
-
 <br>
 
 ## 💻 Autora: Rebeka Dias
@@ -22,7 +19,7 @@ Portfólio:
 - [Github](https://github.com/Beckyyy07)
 
 Contato:
-- [Linkedin](https://www.linkedin.com/in/Rebeka Dias/)
+- [Linkedin](https://www.linkedin.com/in/rebeka-dias-864608205/)
 
 <h1>
 
